@@ -1,4 +1,4 @@
-Interactive-book-annotator.
+## INTERACTIVE BOOK ANNOTATOR
 
 ## Description
 A data-driven reading platform that allows users to annotate books, track activity, and generate insights using Python and SQLite.
